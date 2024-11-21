@@ -1,0 +1,14 @@
+// tailwind.config.js
+module.exports = {
+  theme: {
+    extend: {
+      colors: {
+        primary: '#A21CAF',
+        secondary: '#C084FC',
+        accent: '#E879F9',
+      },
+    },
+  },
+  variants: {},
+  plugins: [],
+}
